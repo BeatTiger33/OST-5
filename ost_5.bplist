@@ -1,0 +1,55 @@
+{
+  "playlistTitle": "ost 5",
+  "playlistAuthor": "BeatTiger",
+  "songs": [
+    {
+      "songName": "Camellia - GHOST (2020 Halloween+++++++++ VIP)",
+      "levelAuthorName": "Beat Sage",
+      "hash": "2AD9972EE153680F818AAC4B57B203BB2AA68522",
+      "levelid": "custom_level_2AD9972EE153680F818AAC4B57B203BB2AA68522",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Ill",
+      "levelAuthorName": "Beat Sage",
+      "hash": "26A97F37F1A840D433EF37943F4EC7F9C1A1840A",
+      "levelid": "custom_level_26A97F37F1A840D433EF37943F4EC7F9C1A1840A",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "How You Like That",
+      "levelAuthorName": "Beat Sage",
+      "hash": "E995117A167D2DC39B608A14790C5881187AD961",
+      "levelid": "custom_level_E995117A167D2DC39B608A14790C5881187AD961",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    },
+    {
+      "songName": "Fresh! (feat. Schwank)",
+      "levelAuthorName": "Beat Sage",
+      "hash": "C7E5DCA53074A98F969977D44E1A0F169AC1423E",
+      "levelid": "custom_level_C7E5DCA53074A98F969977D44E1A0F169AC1423E",
+      "difficulties": [
+        {
+          "characteristic": "Standard",
+          "name": "ExpertPlus"
+        }
+      ]
+    }
+  ],
+  "image": ""
+}
